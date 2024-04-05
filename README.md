@@ -23,7 +23,7 @@ The database schema follows the relational model with the following conceptual a
 The Conceptual Data Model provides a high-level overview of the entities and their relationships within the system.
 ![CDM](screenshots/CDM.bmp)
 
-#### LCD
+#### LDM
 The Logical Data Model presents a detailed representation of the tables, attributes, and relationships in the database.
 ![LDM](screenshots/LDM.bmp)
 ## Screenshots
